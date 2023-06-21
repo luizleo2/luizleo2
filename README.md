@@ -40,7 +40,7 @@ I have developed the necessary skills to take a new step.
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizleo2&layout=compact&langs_count=7&theme=radical"/>
 <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=luizleo2&theme=radical"/> -->
 
-     ![Snake animation](https://github.com/luizleo2/luizleo2/blob/output/github-contribution-grid-snake.svg)
+     
 </div>
 
 
