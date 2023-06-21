@@ -36,7 +36,7 @@ I have developed the necessary skills to take a new step.
 ## Github Stats
 <div align="center">
   <a href="https://github.com/luizleo2">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luizleo2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luizleo2&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/> 
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizleo2&layout=compact&langs_count=7&theme=radical"/>
 <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=luizleo2&theme=radical"/> -->
 
